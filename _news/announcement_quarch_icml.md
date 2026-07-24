@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[*QuArch: A Benchmark for Evaluating LLM Reasoning in Computer Architecture*](https://arxiv.org/abs/2510.22087) was accepted at **ICML 2026**! :tada:
+[*QuArch: A Benchmark for Evaluating LLM Reasoning in Computer Architecture*](https://arxiv.org/abs/2510.22087) accepted to **ICML 2026**.

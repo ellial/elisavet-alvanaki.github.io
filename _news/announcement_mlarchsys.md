@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [*Automated Generation of RISC-V Extensions with Formal Correctness Guarantees*](https://openreview.net/forum?id=lSWVqEryBe) was accepted at **MLArchSys 2026**! :tada:
+[*Automated Generation of RISC-V Extensions with Formal Correctness Guarantees*](https://openreview.net/forum?id=lSWVqEryBe) accepted to **MLArchSys 2026**.

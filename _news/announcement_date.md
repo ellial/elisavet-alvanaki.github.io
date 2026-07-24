@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented [*Decoupled Access-Execute Enabled DVFS for TinyML Deployments on STM32 Microcontrollers*](https://doi.org/10.23919/DATE58400.2024.10546540) at **DATE 2024**.
+[*Decoupled Access-Execute Enabled DVFS for TinyML Deployments on STM32 Microcontrollers*](https://doi.org/10.23919/DATE58400.2024.10546540) accepted to **DATE 2024**.
