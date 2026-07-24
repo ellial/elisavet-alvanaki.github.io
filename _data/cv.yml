@@ -38,19 +38,19 @@ cv:
 
       - title: "Automated Generation of RISC-V Extensions with Formal Correctness Guarantees"
         url: https://openreview.net/forum?id=lSWVqEryBe
-        publisher: "Elisavet Lydia Alvanaki, Jiakun Wang, Eugenio Muscinelli, Luca P. Carloni. Accepted at the Machine Learning for Architecture and Systems Workshop (MLArchSys), co-located with ISCA 2026. Acceptance Rate: 33%"
+        publisher: "Elisavet Lydia Alvanaki, Jiakun Wang, Eugenio Muscinelli, Luca P. Carloni. Accepted at the Machine Learning for Architecture and Systems Workshop (MLArchSys), co-located with ISCA 2026"
 
       - title: "QuArch: A Benchmark for Evaluating LLM Reasoning in Computer Architecture"
         url: https://arxiv.org/abs/2510.22087
-        publisher: "Shvetank Prakash, Andrew Cheng, Arya Tschand, [...], Elisavet Lydia Alvanaki, et al. Accepted at the International Conference on Machine Learning (ICML '26). Acceptance Rate: 26%"
+        publisher: "Shvetank Prakash, Andrew Cheng, Arya Tschand, [...], Elisavet Lydia Alvanaki, et al. Accepted at the International Conference on Machine Learning (ICML '26)"
 
       - title: "SLDB: An End-To-End Heterogeneous System-on-Chip Benchmark Suite for LLM-Aided Design"
         url: https://arxiv.org/abs/2507.06376
-        publisher: "Elisavet-Lydia Alvanaki, Kevin Lee, Luca P. Carloni. Accepted as full paper at the IEEE International Conference on LLM-Aided Design (ICLAD '25). Acceptance Rate: 34%"
+        publisher: "Elisavet-Lydia Alvanaki, Kevin Lee, Luca P. Carloni. Accepted as full paper at the IEEE International Conference on LLM-Aided Design (ICLAD '25)"
 
       - title: "Decoupled Access-Execute enabled DVFS for tinyML deployments on STM32 microcontrollers"
         url: https://doi.org/10.23919/DATE58400.2024.10546540
-        publisher: "Elisavet-Lydia Alvanaki, Manolis Katsaragakis, Dimosthenis Masouros, Sotirios Xydis, Dimitrios Soudris. Accepted as full paper at Design Automation and Test in Europe (DATE '24). Acceptance Rate: 25%"
+        publisher: "Elisavet-Lydia Alvanaki, Manolis Katsaragakis, Dimosthenis Masouros, Sotirios Xydis, Dimitrios Soudris. Accepted as full paper at Design Automation and Test in Europe (DATE '24)"
 
     Research Experience:
       - company: System-Level Design Group - Columbia University
