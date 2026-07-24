@@ -1,0 +1,116 @@
+cv:
+  name: Elisavet Lydia Alvanaki
+  label: PhD Student in Computer Science
+  email: ela2147@columbia.edu
+  location: New York, NY
+  image: ""
+  summary: PhD student in Computer Science at Columbia University working on AI for EDA, hardware/software co-design, computer architecture, and system-on-chip design.
+
+  social_networks:
+    - network: GitHub
+      username: ellial
+    - network: LinkedIn
+      username: elisavet-eli-alvanaki
+
+  sections:
+    Education:
+      - institution: Columbia University
+        location: New York, USA
+        url: https://www.cs.columbia.edu/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2024
+        end_date: 2029 (expected)
+        highlights:
+          - "Advisor: Prof. Luca Carloni, System-Level Design Group"
+          - "GPA: 4.04/4"
+
+      - institution: National Technical University of Athens
+        location: Athens, Greece
+        area: Electrical and Computer Engineering
+        studyType: Diploma
+        start_date: 2018
+        end_date: 2023
+        highlights:
+          - "Advisors: Prof. Dimitrios Soudris, Prof. Sotirios Xydis"
+          - "Thesis: Decoupled Access-Execute and Dynamic Voltage/Frequency Scaling Optimization for Energy Efficient tinyML Deployments on STM32 MCUs"
+
+    Research Experience:
+      - company: System-Level Design Group, Columbia University
+        position: Graduate Research Assistant
+        location: New York, NY
+        start_date: 2024-09-01
+        end_date: present
+        highlights:
+          - Developed SLDB, an end-to-end system-on-chip benchmark suite to evaluate LLMs on system-level integration and configuration tasks.
+          - Research on improving correctness of LLM-generated RTL for component-level and system-level design, leveraging ML techniques, formal verification, and AI agents.
+          - Research on contrastive learning for RTL waveform debugging.
+
+      - company: Cyber-Physical Systems Lab, Duke University
+        position: Research Intern
+        location: Durham, NC (remote)
+        start_date: 2023-09-01
+        end_date: 2023-12-31
+        highlights:
+          - Research internship on energy-efficient neuromorphic controllers with tunable spiking representations, advised by Prof. Miroslav Pajic.
+
+      - company: Microprocessor Systems Laboratory, NTUA
+        position: Research Assistant
+        location: Athens, Greece
+        start_date: 2022-07-01
+        end_date: 2023-11-30
+        highlights:
+          - Designed and implemented a DVFS framework for Arm Cortex-M with optimized clock parameter selection.
+          - Implemented a decoupled access-execute framework for DVFS on CNNs, integrated with an optimizer selecting DVFS strategies under QoS constraints.
+          - Achieved a 25.2% reduction in energy consumption compared to state-of-the-art tinyML inference engines.
+
+    Professional Experience:
+      - company: Tesla
+        position: Electrical Engineering Intern — System Optimization
+        location: Athens, Greece
+        start_date: 2022-03-01
+        end_date: 2022-07-01
+        highlights:
+          - Developed software for multiobjective powertrain optimization using evolutionary algorithms, achieving an 18% motor torque improvement with the same number of epochs.
+          - Benchmarked and developed software for evolutionary optimization algorithms (SPEA-2, Differential Evolution, and more).
+
+    Teaching:
+      - company: Columbia University
+        position: Project Mentor — COMS 6901 Projects in Computer Science
+        location: New York, NY
+        start_date: 2025-09-01
+        end_date: present
+        highlights:
+          - Mentored a project on agentic data generation for LLM-aided waveform debugging.
+
+      - company: Columbia University
+        position: Teaching Assistant — CSEE 4868 System-on-Chip Platforms
+        location: New York, NY
+        start_date: 2025-09-01
+        end_date: present
+        highlights:
+          - Designed programming exercises for hardware acceleration of transformer workloads; graded homework on latency-insensitive design.
+
+      - company: Microprocessor Systems Lab, NTUA
+        position: Teaching Assistant — Embedded Systems Design
+        location: Athens, Greece
+        start_date: 2023-09-01
+        end_date: 2024-01-31
+        highlights:
+          - Designed lab exercises on design-space exploration of code optimization parameters (tiling, loop unrolling, and more).
+
+      - company: Microprocessor Systems Lab, NTUA
+        position: Lab Assistant — Microprocessor Systems Lab
+        location: Athens, Greece
+        start_date: 2022-09-01
+        end_date: 2023-09-01
+        highlights:
+          - Assisted students with debugging AVR boards and conducted lab exams.
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "C, C++, Verilog, VHDL, Python, bash, Matlab"
+      - name: Tools & Platforms
+        icon: fa-solid fa-microchip
+        keywords: "Unix/Linux, TensorFlow, TensorFlow Lite Micro, CMSIS-NN, Git, MCU programming, embedded systems"
