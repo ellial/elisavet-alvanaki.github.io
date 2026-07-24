@@ -27,10 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at Columbia University, advised by [Prof. Luca Carloni](https://www.cs.columbia.edu/~luca/) in the System-Level Design Group. My research interests span **AI for EDA**, **hardware/software co-design**, **computer architecture**, and **system-on-chip design**.
+I am a PhD student in Computer Science at Columbia University, advised by [Prof. Luca Carloni](https://www.cs.columbia.edu/~luca/) in the System-Level Design Group. My research interests span AI for EDA, hardware/software co-design, and embedded systems.
 
-My current work focuses on improving the correctness of LLM-generated RTL at both the component and system level, combining machine learning techniques, formal verification, and AI agents. This includes [SLDB](https://arxiv.org/abs/2507.06376), an end-to-end heterogeneous SoC benchmark suite for LLM-aided design, and the automated generation of RISC-V ISA extensions with formal correctness guarantees.
-
-Before Columbia, I received my Diploma in Electrical and Computer Engineering from the National Technical University of Athens, where I worked on energy-efficient edge AI for Arm Cortex-M microcontrollers with Prof. Dimitrios Soudris and Prof. Sotirios Xydis. I have also been a research intern at Duke University's Cyber-Physical Systems Lab and an electrical engineering intern at Tesla.
-
-You can reach me at [ela2147@columbia.edu](mailto:ela2147@columbia.edu).
+Before Columbia, I received my Diploma in Electrical and Computer Engineering from the National Technical University of Athens, where I worked on energy-efficient edge AI.
