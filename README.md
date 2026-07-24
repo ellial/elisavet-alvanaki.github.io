@@ -37,5 +37,4 @@ existing links keep working).
 ## Deployment
 
 Pushing to `main` triggers the **Deploy static site to GitHub Pages** workflow, which
-publishes the repository root to GitHub Pages. The Pages site is configured with
-`build_type: workflow` (source: GitHub Actions).
+mirrors `main` to the `gh-pages` branch, which GitHub Pages serves (deploy-from-branch).
