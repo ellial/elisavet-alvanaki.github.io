@@ -27,6 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .profile img {
+    max-width: 160px;
+  }
+  .profile.float-right {
+    width: auto;
+    margin-left: 1rem;
+  }
+</style>
+
 I am a PhD student in Computer Science at Columbia University, advised by [Prof. Luca Carloni](https://www.cs.columbia.edu/~luca/) in the System-Level Design Group. My research interests span AI for EDA, hardware/software co-design, and embedded systems.
 
 I am currently an Applied Scientist Intern at Amazon, working with the Automated Reasoning Group.
